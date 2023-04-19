@@ -1,0 +1,1 @@
+web: gunicorn test_linebot:app --log-file-
